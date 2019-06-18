@@ -1,9 +1,12 @@
 Tiny Core Boards are based on Attiny 1 series boards with smallest possible footprint breakout boards and programmer board. The programmer boards features USB type-c, JST battery and ESP-01 connectors.
 
 They are avaialbe on Tindie.
+[TinyCore 16 - Attiny1616](https://www.tindie.com/products/16834/)
+[TinyCore Programmer](https://www.tindie.com/products/16835/)
+
+**(Warning: this board has no bootloader, it can only be programmed through programmers.)**
 
 ## Tiny Core
-[Image Here]
 
  Specifications |  .
 ------------ | -------------
@@ -18,6 +21,19 @@ Peripheral | USART, SPI, I2C, Touch
 Clock | 20 MHz
 Power Consumption | min 2.9μA, max 10mA
 
+![TinyCore16](images/TinyCore16_main.jpg)
+
+![NeoPixel](images/neopixel.gif)
+
+![i2c](images/i2c-temp.gif)
+
+## Tiny Programmer
+
+- USB type C connector
+- JST Battery connector
+- ESP-01 connector for IoT applications
+
+
 ### Installation
 - Install the current upstream Arduino IDE at the 1.8.7 level or later. The current version is at the [Arduino website](http://www.arduino.cc/en/main/software).
 - Start Arduino and open Preferences window.
@@ -26,3 +42,8 @@ Power Consumption | min 2.9μA, max 10mA
 
 ### Arduino Support
   Currently UART, I2C, SPI, basic timer functions like delay, delayMicroseconds, milis, micros are working, I'm working on adding EEPROM support.
+
+
+### Pin Mapping
+
+![Pin Mapping](images/TinyCore16_Pinout.png)
