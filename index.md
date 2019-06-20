@@ -1,3 +1,6 @@
+---
+title: Tiny Core - Your Attiny1616, Attiny3217 tiny dev boards to IoT, home automation and more...
+---
 Tiny Core Boards are based on Attiny 1 series boards with smallest possible footprint breakout boards and programmer board. The programmer boards features USB type-c, JST battery and ESP-01 connectors.
 
 They are avaialbe on Tindie.
