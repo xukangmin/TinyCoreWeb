@@ -77,4 +77,4 @@ I2C communication
 ![i2c](images/i2c-temp.gif)
 
 ### Contact
-For any questions & suggestion, please send email to [mailto](mailto:xukangmin@gmail.com)
+For any questions & suggestion, please send email to [xukangmin@gmail.com](mailto:xukangmin@gmail.com)
