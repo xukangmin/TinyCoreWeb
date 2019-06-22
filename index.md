@@ -13,7 +13,7 @@ They are avaialbe on Tindie.
 
 **(Warning: TinyCore 16 board has no bootloader, it can only be programmed through programmers.)**
 
-## Tiny Core
+## Tiny Core 16
 
  Specifications |  .
 ------------ | -------------
@@ -28,20 +28,8 @@ Peripheral | USART, SPI, I2C, Touch
 Clock | 20 MHz
 Power Consumption | min 2.9μA, max 10mA
 
-
-Tiny Core 16 board:
-
 ![TinyCore16](images/TinyCore16_main.jpg)
 
-
-Powering Neopixel String:
-
-![NeoPixel](images/neopixel.gif)
-
-
-I2C communication
-
-![i2c](images/i2c-temp.gif)
 
 ## Tiny Programmer
 
@@ -64,3 +52,17 @@ I2C communication
 ### Pin Mapping
 
 ![Pin Mapping](images/TinyCore16_Pinout.png)
+
+
+### DEMO
+Powering Neopixel String:
+
+![NeoPixel](images/neopixel.gif)
+
+
+I2C communication
+
+![i2c](images/i2c-temp.gif)
+
+### Contact
+For any questions & suggestion, please send email to xukangmin@gmail.com
