@@ -40,7 +40,7 @@ Peripheral | USART, SPI, I2C, Touch
 Clock | 20 MHz
 Power Consumption | min 2.9μA, max 10mA
 
-![TinyCore16](images/TinyCore16_main.jpg)
+![TinyCore16](images/tinycore16_feature.png)
 
 
 ## Tiny Programmer
@@ -49,7 +49,7 @@ Power Consumption | min 2.9μA, max 10mA
 - JST Battery connector
 - ESP-01 connector for IoT applications
 
-![TinyCore32](images/Programmer_Main.jpg)
+![Programmer](images/Programmer_Main.jpg)
 
 ### Installation
 - Install the current upstream Arduino IDE at the 1.8.7 level or later. The current version is at the [Arduino website](http://www.arduino.cc/en/main/software).
