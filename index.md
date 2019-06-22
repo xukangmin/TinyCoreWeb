@@ -3,7 +3,19 @@ title: Tiny Core - Your Attiny1616, Attiny3217 tiny dev boards to IoT, home auto
 title-header: Tiny Core
 title-tag: Your Attiny1616, Attiny3217 tiny dev boards for IoT, home automation and more...
 ---
-Tiny Core Boards are based on Attiny 1 series boards with smallest possible footprint breakout boards and programmer board. The programmer boards features USB type-c, JST battery and ESP-01 connectors.
+
+## Table of Content
+- [Tiny Core 16](#tiny-core-16)
+- [Tiny Programmer](#tiny-programmer)
+- [Installation](#installation)
+- [Arduino Support](#arduino-support)
+- [Pin Mapping](#pin-mapping)
+- [DEMO](#demo)
+- [Contact](#contact)
+
+## Introduction
+
+Open source Arduino supported Attiny1616 breakout board with Programmer. It is small, easy to use and low power consumption. **It has I2C, SPI, UART, PWM, Timers, Touch PINS, ADC, DAC, 16K Flash, 2K SRAM, 256 bytes EEPROM with 8-bit CPU running up to 20MHz all in it's tiny body!** It has the smallest possible bread-board footprint. The programmer boards features USB type-c, JST battery and ESP-01 connectors.
 
 They are avaialbe on Tindie.
 
