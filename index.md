@@ -27,19 +27,6 @@ They are avaialbe on Tindie.
 
 ## Tiny Core 16
 
- Specifications |  .
------------- | -------------
-Flash (program memory)   | 32/16 KB
-RAM  | 2 KB
-EEPROM | 256 bytes
-Bootloader | No
-GPIO Pins | 18
-ADC Channels | 10
-PWM Channels | 3
-Peripheral | USART, SPI, I2C, Touch
-Clock | 20 MHz
-Power Consumption | min 2.9μA, max 10mA
-
 ![TinyCore16](images/tinycore16_feature.png)
 
 
