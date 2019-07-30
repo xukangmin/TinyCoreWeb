@@ -37,16 +37,21 @@ They are avaialbe on Tindie.
 
 ### DEMO (Check [Documentation Site](https://docs.tinycore.dev) for Code & Tutorial)
 
-Powering Neopixel String:
+Breathing LED:
 
-![NeoPixel](images/neopixel.gif)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t7WcHrdrQLk?rel=0;&autoplay=1&mute=1&loop=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Neo Pixel String
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jilxpWxtArI?rel=0;&autoplay=1&mute=1&loop=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I2C communication
 
 ![i2c](images/i2c-temp.gif)
 
+E-INK with ESP8266
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GgDZX_R0gxE?rel=0;&autoplay=1&mute=1&loop=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Contact
 For any questions & suggestion, please send email to [xukangmin@gmail.com](mailto:xukangmin@gmail.com)
