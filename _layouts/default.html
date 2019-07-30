@@ -2,7 +2,7 @@
 
 <html lang="{{ site.lang | default: "en-US" }}">
   <video autoplay loop id="video-background" muted plays-inline>
-    <source src="/videos/demo1.webm" type="video/webm">
+    <source src="/videos/tinycore_rgb_strip.webm" type="video/webm">
   </video>      
   <head>
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -34,7 +34,9 @@
       <h1 class="project-name">{{ page.title-header }}</h1>
       <h2 class="project-tagline">{{ page.title-tag }}</h2>
       {% if site.github.is_project_page %}
+        <a href="https://www.tindie.com/stores/xkimi/" class="btn">Store</a>
         <a href="https://github.com/xukangmin/TinyCore" class="btn">View on GitHub</a>
+        <a href="https://doces.tinycore.dev" class="btn">Documentation</a>
       {% endif %}
       {% if site.show_downloads %}
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
