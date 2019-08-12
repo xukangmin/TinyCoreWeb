@@ -1,7 +1,7 @@
 ---
-title: Tiny Core - Your Attiny1616, Attiny3217 tiny dev boards to IoT, home automation and more...
-title-header: Tiny Core
-title-tag: Your Attiny1616, Attiny3217 tiny dev boards for IoT, home automation and more...
+title: Tiny Core Boards - Tiny Arduino Alternative board for IoT, Robotics, home automation and more...
+title-header: Tiny Core Boards
+title-tag: Your tiny Arduino Alternative, fits all your small & IoT projects
 ---
 
 ## Introduction
@@ -35,23 +35,23 @@ They are avaialbe on Tindie.
 
 ![Programmer](images/Programmer_Main.jpg)
 
-### DEMO (Check [Documentation Site](https://docs.tinycore.dev) for Code & Tutorial)
+## DEMO (Check [Documentation Site](https://docs.tinycore.dev) for Code & Tutorial)
 
-Breathing LED:
+### Breathing LED:
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/t7WcHrdrQLk?rel=0;&autoplay=1&mute=1&loop=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/t7WcHrdrQLk?rel=0;&mute=1&loop=1" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Neo Pixel String
+### Neo Pixel String
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/jilxpWxtArI?rel=0;&autoplay=1&mute=1&loop=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/jilxpWxtArI?rel=0;&mute=1&loop=1" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-I2C communication
+### I2C communication
 
 ![i2c](images/i2c-temp.gif)
 
-E-INK with ESP8266
+### E-INK with ESP8266
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/GgDZX_R0gxE?rel=0;&autoplay=1&mute=1&loop=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/GgDZX_R0gxE?rel=0;&mute=1&loop=1" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Contact
-For any questions & suggestion, please send email to [xukangmin@gmail.com](mailto:xukangmin@gmail.com)
+## Contact
+For any questions & suggestions, please send email to [xukangmin@gmail.com](mailto:xukangmin@gmail.com)
