@@ -1722,6 +1722,9 @@ a {
     -ms-flex-direction: column;
     flex-direction: column;
   }
+  .nav-link {
+    color: #fff;
+  }
   .hero-image {
     width: 80%;
   }
@@ -1771,6 +1774,9 @@ a {
   }
   .number {
     font-size: 40px;
+  }
+  .nav-menu-2 {
+    background-color: #000;
   }
   .heading-3 {
     font-size: 42px;
