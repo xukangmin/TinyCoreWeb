@@ -207,7 +207,6 @@ a {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  height: 100vh;
   padding-bottom: 0vh;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
