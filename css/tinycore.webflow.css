@@ -88,7 +88,7 @@ a {
   align-items: flex-start;
   background-image: url('../images/MTXX_20190826211438.jpg');
   background-position: 50% 0%;
-  background-size: 80% 100%;
+  background-size: cover;
   -webkit-transform: scale3d(1none, 1none, 1none);
   transform: scale3d(1none, 1none, 1none);
   -webkit-transform-origin: 50% 50%;
